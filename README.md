@@ -1,4 +1,4 @@
 # Demo
 First Git Repository
 <br>
-Author - Ritika Gupta
+Author - Ritika Gupta Lad
